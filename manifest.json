@@ -1,0 +1,28 @@
+{
+  "id": "/",
+  "name": "Zone Out Music — Tevaun Bailey (Tevakaveli)",
+  "short_name": "Zone Out Music",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "orientation": "portrait-primary",
+  "background_color": "#090508",
+  "theme_color": "#090508",
+  "description": "Zone Out Music — Tevaun Bailey (Tevakaveli). Background Execution Daemon, Periodic Sync, Self-Cleaning Auto-Cache, Used Data Recycle Engine, Wi-Fi/Bluetooth Data Centre, 29 Active Protocols, 4-link Music Catalog, and Zone Out Blackjack (21).",
+  "categories": ["music", "entertainment", "games"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
